@@ -1,2 +1,3 @@
-# Python Orientado a Objetos
- Estudos de Orientação a objetos com a linguagem Python
+# Object Oriented Programming - Practice
+ 
+Estudos de Programação Orientação a objetos com Python
